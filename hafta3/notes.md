@@ -1,0 +1,3 @@
+- daha fazla değişken türü
+- eğer yapısı
+- döngüler
