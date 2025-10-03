@@ -1,3 +1,3 @@
-- daha fazla değişken türü
+- daha fazla değişken türü - dict, list, bool
 - eğer yapısı
 - döngüler
