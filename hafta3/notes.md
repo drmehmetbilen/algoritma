@@ -1,3 +1,5 @@
-- daha fazla değişken türü - dict, list, bool
-- eğer yapısı
-- döngüler
++ daha fazla değişken türü - dict, list, bool
++ eğer yapısı
++ döngüler (while)
+
+

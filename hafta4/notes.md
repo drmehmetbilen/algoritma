@@ -1,0 +1,2 @@
+- döngüler (while, for)
+- lists ve dicts
