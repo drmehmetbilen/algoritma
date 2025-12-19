@@ -1,0 +1,1175 @@
+{
+          "Playground": {
+                    "Regex": {
+                              "tarih_saat.py": "file",
+                              "sentences.py": "file",
+                              "valid_username.py": "file",
+                              "htt.py": "file",
+                              "year.py": "file",
+                              "transaction.py": "file",
+                              "order_number.py": "file",
+                              "html.py": "file",
+                              "hard_email.py": "file",
+                              "emain.py": "file",
+                              "regex_test.py": "file",
+                              "parser.py": "file",
+                              "ip.py": "file",
+                              "temp.py": "file",
+                              "log_levels.py": "file",
+                              "hard_transaction.py": "file",
+                              "product.py": "file",
+                              "prices.py": "file"
+                    },
+                    "Regex_Examples": {
+                              "1_mail.py": "file"
+                    },
+                    "Regex 2": {
+                              "__pycache__": {},
+                              "main.py": "file",
+                              "samples.py": "file"
+                    },
+                    "Search Algorithms": {
+                              "binary_search.py": "file"
+                    }
+          },
+          "nats_playback.py": "file",
+          "nats": {
+                    "nats_playback.py": "file",
+                    ".venv": {
+                              "bin": {},
+                              "include": {
+                                        "python3.11": {}
+                              },
+                              "lib": {
+                                        "python3.11": {
+                                                  "site-packages": {
+                                                            "pip-25.2.dist-info": {
+                                                                      "licenses": {
+                                                                                "src": {
+                                                                                          "pip": {
+                                                                                                    "_vendor": {
+                                                                                                              "packaging": {},
+                                                                                                              "truststore": {},
+                                                                                                              "msgpack": {},
+                                                                                                              "dependency_groups": {},
+                                                                                                              "pygments": {},
+                                                                                                              "distlib": {},
+                                                                                                              "distro": {},
+                                                                                                              "cachecontrol": {},
+                                                                                                              "idna": {},
+                                                                                                              "requests": {},
+                                                                                                              "tomli": {},
+                                                                                                              "certifi": {},
+                                                                                                              "pyproject_hooks": {},
+                                                                                                              "rich": {},
+                                                                                                              "tomli_w": {},
+                                                                                                              "urllib3": {},
+                                                                                                              "pkg_resources": {},
+                                                                                                              "resolvelib": {},
+                                                                                                              "platformdirs": {}
+                                                                                                    }
+                                                                                          }
+                                                                                }
+                                                                      }
+                                                            },
+                                                            "setuptools-80.7.1.dist-info": {
+                                                                      "licenses": {}
+                                                            },
+                                                            "pip": {
+                                                                      "_internal": {
+                                                                                "configuration.py": "file",
+                                                                                "pyproject.py": "file",
+                                                                                "network": {
+                                                                                          "auth.py": "file",
+                                                                                          "xmlrpc.py": "file",
+                                                                                          "download.py": "file",
+                                                                                          "session.py": "file",
+                                                                                          "cache.py": "file",
+                                                                                          "__init__.py": "file",
+                                                                                          "__pycache__": {},
+                                                                                          "utils.py": "file",
+                                                                                          "lazy_wheel.py": "file"
+                                                                                },
+                                                                                "cache.py": "file",
+                                                                                "__init__.py": "file",
+                                                                                "utils": {
+                                                                                          "logging.py": "file",
+                                                                                          "misc.py": "file",
+                                                                                          "egg_link.py": "file",
+                                                                                          "compat.py": "file",
+                                                                                          "deprecation.py": "file",
+                                                                                          "subprocess.py": "file",
+                                                                                          "filesystem.py": "file",
+                                                                                          "direct_url_helpers.py": "file",
+                                                                                          "__init__.py": "file",
+                                                                                          "_jaraco_text.py": "file",
+                                                                                          "__pycache__": {},
+                                                                                          "temp_dir.py": "file",
+                                                                                          "retry.py": "file",
+                                                                                          "appdirs.py": "file",
+                                                                                          "setuptools_build.py": "file",
+                                                                                          "packaging.py": "file",
+                                                                                          "entrypoints.py": "file",
+                                                                                          "filetypes.py": "file",
+                                                                                          "compatibility_tags.py": "file",
+                                                                                          "datetime.py": "file",
+                                                                                          "urls.py": "file",
+                                                                                          "hashes.py": "file",
+                                                                                          "virtualenv.py": "file",
+                                                                                          "_log.py": "file",
+                                                                                          "glibc.py": "file",
+                                                                                          "wheel.py": "file",
+                                                                                          "unpacking.py": "file"
+                                                                                },
+                                                                                "models": {
+                                                                                          "link.py": "file",
+                                                                                          "selection_prefs.py": "file",
+                                                                                          "direct_url.py": "file",
+                                                                                          "index.py": "file",
+                                                                                          "target_python.py": "file",
+                                                                                          "pylock.py": "file",
+                                                                                          "__init__.py": "file",
+                                                                                          "__pycache__": {},
+                                                                                          "search_scope.py": "file",
+                                                                                          "candidate.py": "file",
+                                                                                          "format_control.py": "file",
+                                                                                          "installation_report.py": "file",
+                                                                                          "scheme.py": "file",
+                                                                                          "wheel.py": "file"
+                                                                                },
+                                                                                "__pycache__": {},
+                                                                                "cli": {
+                                                                                          "cmdoptions.py": "file",
+                                                                                          "__init__.py": "file",
+                                                                                          "index_command.py": "file",
+                                                                                          "status_codes.py": "file",
+                                                                                          "__pycache__": {},
+                                                                                          "parser.py": "file",
+                                                                                          "command_context.py": "file",
+                                                                                          "spinners.py": "file",
+                                                                                          "autocompletion.py": "file",
+                                                                                          "base_command.py": "file",
+                                                                                          "main_parser.py": "file",
+                                                                                          "progress_bars.py": "file",
+                                                                                          "main.py": "file",
+                                                                                          "req_command.py": "file"
+                                                                                },
+                                                                                "operations": {
+                                                                                          "install": {
+                                                                                                    "editable_legacy.py": "file",
+                                                                                                    "__init__.py": "file",
+                                                                                                    "__pycache__": {},
+                                                                                                    "wheel.py": "file"
+                                                                                          },
+                                                                                          "check.py": "file",
+                                                                                          "__init__.py": "file",
+                                                                                          "__pycache__": {},
+                                                                                          "freeze.py": "file",
+                                                                                          "build": {
+                                                                                                    "wheel_legacy.py": "file",
+                                                                                                    "metadata.py": "file",
+                                                                                                    "metadata_editable.py": "file",
+                                                                                                    "wheel_editable.py": "file",
+                                                                                                    "__init__.py": "file",
+                                                                                                    "__pycache__": {},
+                                                                                                    "metadata_legacy.py": "file",
+                                                                                                    "wheel.py": "file",
+                                                                                                    "build_tracker.py": "file"
+                                                                                          },
+                                                                                          "prepare.py": "file"
+                                                                                },
+                                                                                "req": {
+                                                                                          "req_install.py": "file",
+                                                                                          "req_set.py": "file",
+                                                                                          "req_uninstall.py": "file",
+                                                                                          "__init__.py": "file",
+                                                                                          "__pycache__": {},
+                                                                                          "req_dependency_group.py": "file",
+                                                                                          "req_file.py": "file",
+                                                                                          "constructors.py": "file"
+                                                                                },
+                                                                                "resolution": {
+                                                                                          "legacy": {
+                                                                                                    "__init__.py": "file",
+                                                                                                    "__pycache__": {},
+                                                                                                    "resolver.py": "file"
+                                                                                          },
+                                                                                          "__init__.py": "file",
+                                                                                          "__pycache__": {},
+                                                                                          "base.py": "file",
+                                                                                          "resolvelib": {
+                                                                                                    "provider.py": "file",
+                                                                                                    "found_candidates.py": "file",
+                                                                                                    "reporter.py": "file",
+                                                                                                    "__init__.py": "file",
+                                                                                                    "__pycache__": {},
+                                                                                                    "factory.py": "file",
+                                                                                                    "requirements.py": "file",
+                                                                                                    "resolver.py": "file",
+                                                                                                    "candidates.py": "file",
+                                                                                                    "base.py": "file"
+                                                                                          }
+                                                                                },
+                                                                                "vcs": {
+                                                                                          "git.py": "file",
+                                                                                          "__init__.py": "file",
+                                                                                          "__pycache__": {},
+                                                                                          "mercurial.py": "file",
+                                                                                          "bazaar.py": "file",
+                                                                                          "versioncontrol.py": "file",
+                                                                                          "subversion.py": "file"
+                                                                                },
+                                                                                "locations": {
+                                                                                          "__init__.py": "file",
+                                                                                          "__pycache__": {},
+                                                                                          "_sysconfig.py": "file",
+                                                                                          "_distutils.py": "file",
+                                                                                          "base.py": "file"
+                                                                                },
+                                                                                "index": {
+                                                                                          "collector.py": "file",
+                                                                                          "__init__.py": "file",
+                                                                                          "__pycache__": {},
+                                                                                          "sources.py": "file",
+                                                                                          "package_finder.py": "file"
+                                                                                },
+                                                                                "exceptions.py": "file",
+                                                                                "commands": {
+                                                                                          "configuration.py": "file",
+                                                                                          "show.py": "file",
+                                                                                          "list.py": "file",
+                                                                                          "check.py": "file",
+                                                                                          "index.py": "file",
+                                                                                          "completion.py": "file",
+                                                                                          "download.py": "file",
+                                                                                          "cache.py": "file",
+                                                                                          "__init__.py": "file",
+                                                                                          "__pycache__": {},
+                                                                                          "hash.py": "file",
+                                                                                          "inspect.py": "file",
+                                                                                          "debug.py": "file",
+                                                                                          "uninstall.py": "file",
+                                                                                          "lock.py": "file",
+                                                                                          "freeze.py": "file",
+                                                                                          "search.py": "file",
+                                                                                          "install.py": "file",
+                                                                                          "help.py": "file",
+                                                                                          "wheel.py": "file"
+                                                                                },
+                                                                                "main.py": "file",
+                                                                                "wheel_builder.py": "file",
+                                                                                "metadata": {
+                                                                                          "_json.py": "file",
+                                                                                          "__init__.py": "file",
+                                                                                          "__pycache__": {},
+                                                                                          "pkg_resources.py": "file",
+                                                                                          "importlib": {
+                                                                                                    "_dists.py": "file",
+                                                                                                    "__init__.py": "file",
+                                                                                                    "__pycache__": {},
+                                                                                                    "_compat.py": "file",
+                                                                                                    "_envs.py": "file"
+                                                                                          },
+                                                                                          "base.py": "file"
+                                                                                },
+                                                                                "distributions": {
+                                                                                          "__init__.py": "file",
+                                                                                          "__pycache__": {},
+                                                                                          "sdist.py": "file",
+                                                                                          "installed.py": "file",
+                                                                                          "base.py": "file",
+                                                                                          "wheel.py": "file"
+                                                                                },
+                                                                                "self_outdated_check.py": "file",
+                                                                                "build_env.py": "file"
+                                                                      },
+                                                                      "_vendor": {
+                                                                                "packaging": {
+                                                                                          "tags.py": "file",
+                                                                                          "_musllinux.py": "file",
+                                                                                          "metadata.py": "file",
+                                                                                          "version.py": "file",
+                                                                                          "licenses": {
+                                                                                                    "__init__.py": "file",
+                                                                                                    "_spdx.py": "file",
+                                                                                                    "__pycache__": {}
+                                                                                          },
+                                                                                          "__init__.py": "file",
+                                                                                          "__pycache__": {},
+                                                                                          "_parser.py": "file",
+                                                                                          "utils.py": "file",
+                                                                                          "requirements.py": "file",
+                                                                                          "_structures.py": "file",
+                                                                                          "markers.py": "file",
+                                                                                          "_manylinux.py": "file",
+                                                                                          "_tokenizer.py": "file",
+                                                                                          "specifiers.py": "file",
+                                                                                          "_elffile.py": "file"
+                                                                                },
+                                                                                "truststore": {
+                                                                                          "_openssl.py": "file",
+                                                                                          "_api.py": "file",
+                                                                                          "_macos.py": "file",
+                                                                                          "__init__.py": "file",
+                                                                                          "__pycache__": {},
+                                                                                          "_ssl_constants.py": "file",
+                                                                                          "_windows.py": "file"
+                                                                                },
+                                                                                "msgpack": {
+                                                                                          "__init__.py": "file",
+                                                                                          "__pycache__": {},
+                                                                                          "exceptions.py": "file",
+                                                                                          "fallback.py": "file",
+                                                                                          "ext.py": "file"
+                                                                                },
+                                                                                "dependency_groups": {
+                                                                                          "_lint_dependency_groups.py": "file",
+                                                                                          "__init__.py": "file",
+                                                                                          "__pycache__": {},
+                                                                                          "_pip_wrapper.py": "file",
+                                                                                          "_implementation.py": "file",
+                                                                                          "_toml_compat.py": "file",
+                                                                                          "__main__.py": "file"
+                                                                                },
+                                                                                "pygments": {
+                                                                                          "filters": {
+                                                                                                    "__init__.py": "file",
+                                                                                                    "__pycache__": {}
+                                                                                          },
+                                                                                          "modeline.py": "file",
+                                                                                          "console.py": "file",
+                                                                                          "scanner.py": "file",
+                                                                                          "formatter.py": "file",
+                                                                                          "lexers": {
+                                                                                                    "__init__.py": "file",
+                                                                                                    "__pycache__": {},
+                                                                                                    "python.py": "file",
+                                                                                                    "_mapping.py": "file"
+                                                                                          },
+                                                                                          "token.py": "file",
+                                                                                          "style.py": "file",
+                                                                                          "util.py": "file",
+                                                                                          "sphinxext.py": "file",
+                                                                                          "__init__.py": "file",
+                                                                                          "formatters": {
+                                                                                                    "__init__.py": "file",
+                                                                                                    "__pycache__": {},
+                                                                                                    "_mapping.py": "file"
+                                                                                          },
+                                                                                          "__pycache__": {},
+                                                                                          "styles": {
+                                                                                                    "__init__.py": "file",
+                                                                                                    "__pycache__": {},
+                                                                                                    "_mapping.py": "file"
+                                                                                          },
+                                                                                          "unistring.py": "file",
+                                                                                          "lexer.py": "file",
+                                                                                          "regexopt.py": "file",
+                                                                                          "plugin.py": "file",
+                                                                                          "filter.py": "file",
+                                                                                          "__main__.py": "file"
+                                                                                },
+                                                                                "distlib": {
+                                                                                          "compat.py": "file",
+                                                                                          "util.py": "file",
+                                                                                          "__init__.py": "file",
+                                                                                          "__pycache__": {},
+                                                                                          "resources.py": "file",
+                                                                                          "scripts.py": "file"
+                                                                                },
+                                                                                "distro": {
+                                                                                          "__init__.py": "file",
+                                                                                          "__pycache__": {},
+                                                                                          "distro.py": "file",
+                                                                                          "__main__.py": "file"
+                                                                                },
+                                                                                "cachecontrol": {
+                                                                                          "serialize.py": "file",
+                                                                                          "wrapper.py": "file",
+                                                                                          "controller.py": "file",
+                                                                                          "filewrapper.py": "file",
+                                                                                          "heuristics.py": "file",
+                                                                                          "adapter.py": "file",
+                                                                                          "cache.py": "file",
+                                                                                          "__init__.py": "file",
+                                                                                          "__pycache__": {},
+                                                                                          "_cmd.py": "file",
+                                                                                          "caches": {
+                                                                                                    "file_cache.py": "file",
+                                                                                                    "__init__.py": "file",
+                                                                                                    "__pycache__": {},
+                                                                                                    "redis_cache.py": "file"
+                                                                                          }
+                                                                                },
+                                                                                "idna": {
+                                                                                          "intranges.py": "file",
+                                                                                          "package_data.py": "file",
+                                                                                          "compat.py": "file",
+                                                                                          "idnadata.py": "file",
+                                                                                          "__init__.py": "file",
+                                                                                          "core.py": "file",
+                                                                                          "__pycache__": {},
+                                                                                          "codec.py": "file",
+                                                                                          "uts46data.py": "file"
+                                                                                },
+                                                                                "__init__.py": "file",
+                                                                                "__pycache__": {},
+                                                                                "requests": {
+                                                                                          "cookies.py": "file",
+                                                                                          "auth.py": "file",
+                                                                                          "sessions.py": "file",
+                                                                                          "hooks.py": "file",
+                                                                                          "compat.py": "file",
+                                                                                          "models.py": "file",
+                                                                                          "certs.py": "file",
+                                                                                          "__init__.py": "file",
+                                                                                          "status_codes.py": "file",
+                                                                                          "packages.py": "file",
+                                                                                          "__version__.py": "file",
+                                                                                          "__pycache__": {},
+                                                                                          "api.py": "file",
+                                                                                          "_internal_utils.py": "file",
+                                                                                          "utils.py": "file",
+                                                                                          "exceptions.py": "file",
+                                                                                          "structures.py": "file",
+                                                                                          "help.py": "file",
+                                                                                          "adapters.py": "file"
+                                                                                },
+                                                                                "tomli": {
+                                                                                          "_types.py": "file",
+                                                                                          "__init__.py": "file",
+                                                                                          "__pycache__": {},
+                                                                                          "_parser.py": "file",
+                                                                                          "_re.py": "file"
+                                                                                },
+                                                                                "certifi": {
+                                                                                          "__init__.py": "file",
+                                                                                          "core.py": "file",
+                                                                                          "__pycache__": {},
+                                                                                          "__main__.py": "file"
+                                                                                },
+                                                                                "pyproject_hooks": {
+                                                                                          "_impl.py": "file",
+                                                                                          "__init__.py": "file",
+                                                                                          "__pycache__": {},
+                                                                                          "_in_process": {
+                                                                                                    "_in_process.py": "file",
+                                                                                                    "__init__.py": "file",
+                                                                                                    "__pycache__": {}
+                                                                                          }
+                                                                                },
+                                                                                "rich": {
+                                                                                          "themes.py": "file",
+                                                                                          "screen.py": "file",
+                                                                                          "logging.py": "file",
+                                                                                          "measure.py": "file",
+                                                                                          "tree.py": "file",
+                                                                                          "console.py": "file",
+                                                                                          "live_render.py": "file",
+                                                                                          "_emoji_codes.py": "file",
+                                                                                          "box.py": "file",
+                                                                                          "color.py": "file",
+                                                                                          "_timer.py": "file",
+                                                                                          "_fileno.py": "file",
+                                                                                          "align.py": "file",
+                                                                                          "theme.py": "file",
+                                                                                          "style.py": "file",
+                                                                                          "default_styles.py": "file",
+                                                                                          "_wrap.py": "file",
+                                                                                          "_log_render.py": "file",
+                                                                                          "emoji.py": "file",
+                                                                                          "layout.py": "file",
+                                                                                          "containers.py": "file",
+                                                                                          "_emoji_replace.py": "file",
+                                                                                          "traceback.py": "file",
+                                                                                          "region.py": "file",
+                                                                                          "protocol.py": "file",
+                                                                                          "_loop.py": "file",
+                                                                                          "control.py": "file",
+                                                                                          "filesize.py": "file",
+                                                                                          "_null_file.py": "file",
+                                                                                          "_palettes.py": "file",
+                                                                                          "__init__.py": "file",
+                                                                                          "_pick.py": "file",
+                                                                                          "file_proxy.py": "file",
+                                                                                          "__pycache__": {},
+                                                                                          "palette.py": "file",
+                                                                                          "markup.py": "file",
+                                                                                          "_ratio.py": "file",
+                                                                                          "repr.py": "file",
+                                                                                          "constrain.py": "file",
+                                                                                          "pretty.py": "file",
+                                                                                          "diagnose.py": "file",
+                                                                                          "columns.py": "file",
+                                                                                          "rule.py": "file",
+                                                                                          "_inspect.py": "file",
+                                                                                          "pager.py": "file",
+                                                                                          "text.py": "file",
+                                                                                          "highlighter.py": "file",
+                                                                                          "_spinners.py": "file",
+                                                                                          "terminal_theme.py": "file",
+                                                                                          "bar.py": "file",
+                                                                                          "live.py": "file",
+                                                                                          "syntax.py": "file",
+                                                                                          "table.py": "file",
+                                                                                          "_export_format.py": "file",
+                                                                                          "progress_bar.py": "file",
+                                                                                          "errors.py": "file",
+                                                                                          "prompt.py": "file",
+                                                                                          "segment.py": "file",
+                                                                                          "ansi.py": "file",
+                                                                                          "progress.py": "file",
+                                                                                          "_stack.py": "file",
+                                                                                          "_windows.py": "file",
+                                                                                          "_cell_widths.py": "file",
+                                                                                          "cells.py": "file",
+                                                                                          "_win32_console.py": "file",
+                                                                                          "panel.py": "file",
+                                                                                          "styled.py": "file",
+                                                                                          "spinner.py": "file",
+                                                                                          "_windows_renderer.py": "file",
+                                                                                          "json.py": "file",
+                                                                                          "padding.py": "file",
+                                                                                          "__main__.py": "file",
+                                                                                          "scope.py": "file",
+                                                                                          "_extension.py": "file",
+                                                                                          "status.py": "file",
+                                                                                          "abc.py": "file",
+                                                                                          "jupyter.py": "file",
+                                                                                          "color_triplet.py": "file"
+                                                                                },
+                                                                                "tomli_w": {
+                                                                                          "_writer.py": "file",
+                                                                                          "__init__.py": "file",
+                                                                                          "__pycache__": {}
+                                                                                },
+                                                                                "urllib3": {
+                                                                                          "filepost.py": "file",
+                                                                                          "fields.py": "file",
+                                                                                          "util": {
+                                                                                                    "queue.py": "file",
+                                                                                                    "ssltransport.py": "file",
+                                                                                                    "proxy.py": "file",
+                                                                                                    "wait.py": "file",
+                                                                                                    "request.py": "file",
+                                                                                                    "timeout.py": "file",
+                                                                                                    "__init__.py": "file",
+                                                                                                    "response.py": "file",
+                                                                                                    "ssl_.py": "file",
+                                                                                                    "__pycache__": {},
+                                                                                                    "retry.py": "file",
+                                                                                                    "url.py": "file",
+                                                                                                    "connection.py": "file",
+                                                                                                    "ssl_match_hostname.py": "file"
+                                                                                          },
+                                                                                          "_version.py": "file",
+                                                                                          "request.py": "file",
+                                                                                          "__init__.py": "file",
+                                                                                          "poolmanager.py": "file",
+                                                                                          "response.py": "file",
+                                                                                          "__pycache__": {},
+                                                                                          "contrib": {
+                                                                                                    "securetransport.py": "file",
+                                                                                                    "__init__.py": "file",
+                                                                                                    "__pycache__": {},
+                                                                                                    "socks.py": "file",
+                                                                                                    "_appengine_environ.py": "file",
+                                                                                                    "pyopenssl.py": "file",
+                                                                                                    "appengine.py": "file",
+                                                                                                    "_securetransport": {
+                                                                                                              "__init__.py": "file",
+                                                                                                              "__pycache__": {},
+                                                                                                              "low_level.py": "file",
+                                                                                                              "bindings.py": "file"
+                                                                                                    },
+                                                                                                    "ntlmpool.py": "file"
+                                                                                          },
+                                                                                          "connection.py": "file",
+                                                                                          "_collections.py": "file",
+                                                                                          "packages": {
+                                                                                                    "__init__.py": "file",
+                                                                                                    "__pycache__": {},
+                                                                                                    "backports": {
+                                                                                                              "__init__.py": "file",
+                                                                                                              "__pycache__": {},
+                                                                                                              "makefile.py": "file",
+                                                                                                              "weakref_finalize.py": "file"
+                                                                                                    },
+                                                                                                    "six.py": "file"
+                                                                                          },
+                                                                                          "exceptions.py": "file",
+                                                                                          "connectionpool.py": "file"
+                                                                                },
+                                                                                "pkg_resources": {
+                                                                                          "__init__.py": "file",
+                                                                                          "__pycache__": {}
+                                                                                },
+                                                                                "resolvelib": {
+                                                                                          "__init__.py": "file",
+                                                                                          "__pycache__": {},
+                                                                                          "resolvers": {
+                                                                                                    "abstract.py": "file",
+                                                                                                    "__init__.py": "file",
+                                                                                                    "__pycache__": {},
+                                                                                                    "exceptions.py": "file",
+                                                                                                    "criterion.py": "file",
+                                                                                                    "resolution.py": "file"
+                                                                                          },
+                                                                                          "providers.py": "file",
+                                                                                          "structs.py": "file",
+                                                                                          "reporters.py": "file"
+                                                                                },
+                                                                                "platformdirs": {
+                                                                                          "macos.py": "file",
+                                                                                          "unix.py": "file",
+                                                                                          "version.py": "file",
+                                                                                          "__init__.py": "file",
+                                                                                          "__pycache__": {},
+                                                                                          "api.py": "file",
+                                                                                          "android.py": "file",
+                                                                                          "windows.py": "file",
+                                                                                          "__main__.py": "file"
+                                                                                }
+                                                                      },
+                                                                      "__init__.py": "file",
+                                                                      "__pycache__": {},
+                                                                      "__pip-runner__.py": "file",
+                                                                      "__main__.py": "file"
+                                                            },
+                                                            "setuptools": {
+                                                                      "_path.py": "file",
+                                                                      "logging.py": "file",
+                                                                      "windows_support.py": "file",
+                                                                      "_normalization.py": "file",
+                                                                      "compat": {
+                                                                                "py39.py": "file",
+                                                                                "__init__.py": "file",
+                                                                                "py312.py": "file",
+                                                                                "__pycache__": {},
+                                                                                "py311.py": "file",
+                                                                                "py310.py": "file"
+                                                                      },
+                                                                      "archive_util.py": "file",
+                                                                      "_imp.py": "file",
+                                                                      "version.py": "file",
+                                                                      "modified.py": "file",
+                                                                      "_vendor": {
+                                                                                "packaging": {
+                                                                                          "tags.py": "file",
+                                                                                          "_musllinux.py": "file",
+                                                                                          "metadata.py": "file",
+                                                                                          "version.py": "file",
+                                                                                          "licenses": {
+                                                                                                    "__init__.py": "file",
+                                                                                                    "_spdx.py": "file",
+                                                                                                    "__pycache__": {}
+                                                                                          },
+                                                                                          "__init__.py": "file",
+                                                                                          "__pycache__": {},
+                                                                                          "_parser.py": "file",
+                                                                                          "utils.py": "file",
+                                                                                          "requirements.py": "file",
+                                                                                          "_structures.py": "file",
+                                                                                          "markers.py": "file",
+                                                                                          "_manylinux.py": "file",
+                                                                                          "_tokenizer.py": "file",
+                                                                                          "specifiers.py": "file",
+                                                                                          "_elffile.py": "file"
+                                                                                },
+                                                                                "jaraco.text-3.12.1.dist-info": {},
+                                                                                "jaraco.collections-5.1.0.dist-info": {},
+                                                                                "importlib_metadata-8.0.0.dist-info": {},
+                                                                                "inflect": {
+                                                                                          "compat": {
+                                                                                                    "py38.py": "file",
+                                                                                                    "__init__.py": "file",
+                                                                                                    "__pycache__": {}
+                                                                                          },
+                                                                                          "__init__.py": "file",
+                                                                                          "__pycache__": {}
+                                                                                },
+                                                                                "jaraco": {
+                                                                                          "__pycache__": {},
+                                                                                          "context.py": "file",
+                                                                                          "functools": {
+                                                                                                    "__init__.py": "file",
+                                                                                                    "__pycache__": {}
+                                                                                          },
+                                                                                          "text": {
+                                                                                                    "to-qwerty.py": "file",
+                                                                                                    "show-newlines.py": "file",
+                                                                                                    "to-dvorak.py": "file",
+                                                                                                    "__init__.py": "file",
+                                                                                                    "__pycache__": {},
+                                                                                                    "strip-prefix.py": "file",
+                                                                                                    "layouts.py": "file"
+                                                                                          },
+                                                                                          "collections": {
+                                                                                                    "__init__.py": "file",
+                                                                                                    "__pycache__": {}
+                                                                                          }
+                                                                                },
+                                                                                "jaraco.functools-4.0.1.dist-info": {},
+                                                                                "jaraco.context-5.3.0.dist-info": {},
+                                                                                "inflect-7.3.1.dist-info": {},
+                                                                                "importlib_metadata": {
+                                                                                          "_meta.py": "file",
+                                                                                          "compat": {
+                                                                                                    "py39.py": "file",
+                                                                                                    "__init__.py": "file",
+                                                                                                    "__pycache__": {},
+                                                                                                    "py311.py": "file"
+                                                                                          },
+                                                                                          "_text.py": "file",
+                                                                                          "__init__.py": "file",
+                                                                                          "_functools.py": "file",
+                                                                                          "__pycache__": {},
+                                                                                          "diagnose.py": "file",
+                                                                                          "_collections.py": "file",
+                                                                                          "_itertools.py": "file",
+                                                                                          "_adapters.py": "file",
+                                                                                          "_compat.py": "file"
+                                                                                },
+                                                                                "wheel": {
+                                                                                          "metadata.py": "file",
+                                                                                          "macosx_libfile.py": "file",
+                                                                                          "util.py": "file",
+                                                                                          "_setuptools_logging.py": "file",
+                                                                                          "__init__.py": "file",
+                                                                                          "__pycache__": {},
+                                                                                          "cli": {
+                                                                                                    "pack.py": "file",
+                                                                                                    "tags.py": "file",
+                                                                                                    "convert.py": "file",
+                                                                                                    "__init__.py": "file",
+                                                                                                    "__pycache__": {},
+                                                                                                    "unpack.py": "file"
+                                                                                          },
+                                                                                          "bdist_wheel.py": "file",
+                                                                                          "vendored": {
+                                                                                                    "packaging": {
+                                                                                                              "tags.py": "file",
+                                                                                                              "_musllinux.py": "file",
+                                                                                                              "version.py": "file",
+                                                                                                              "__init__.py": "file",
+                                                                                                              "__pycache__": {},
+                                                                                                              "_parser.py": "file",
+                                                                                                              "utils.py": "file",
+                                                                                                              "requirements.py": "file",
+                                                                                                              "_structures.py": "file",
+                                                                                                              "markers.py": "file",
+                                                                                                              "_manylinux.py": "file",
+                                                                                                              "_tokenizer.py": "file",
+                                                                                                              "specifiers.py": "file",
+                                                                                                              "_elffile.py": "file"
+                                                                                                    },
+                                                                                                    "__init__.py": "file",
+                                                                                                    "__pycache__": {}
+                                                                                          },
+                                                                                          "_bdist_wheel.py": "file",
+                                                                                          "wheelfile.py": "file",
+                                                                                          "__main__.py": "file"
+                                                                                },
+                                                                                "zipp": {
+                                                                                          "compat": {
+                                                                                                    "__init__.py": "file",
+                                                                                                    "__pycache__": {},
+                                                                                                    "py310.py": "file"
+                                                                                          },
+                                                                                          "__init__.py": "file",
+                                                                                          "__pycache__": {},
+                                                                                          "glob.py": "file"
+                                                                                },
+                                                                                "autocommand-2.2.2.dist-info": {},
+                                                                                "__pycache__": {},
+                                                                                "more_itertools": {
+                                                                                          "__init__.py": "file",
+                                                                                          "__pycache__": {},
+                                                                                          "more.py": "file",
+                                                                                          "recipes.py": "file"
+                                                                                },
+                                                                                "backports": {
+                                                                                          "tarfile": {
+                                                                                                    "compat": {
+                                                                                                              "py38.py": "file",
+                                                                                                              "__init__.py": "file",
+                                                                                                              "__pycache__": {}
+                                                                                                    },
+                                                                                                    "__init__.py": "file",
+                                                                                                    "__pycache__": {},
+                                                                                                    "__main__.py": "file"
+                                                                                          },
+                                                                                          "__init__.py": "file",
+                                                                                          "__pycache__": {}
+                                                                                },
+                                                                                "autocommand": {
+                                                                                          "__init__.py": "file",
+                                                                                          "__pycache__": {},
+                                                                                          "automain.py": "file",
+                                                                                          "errors.py": "file",
+                                                                                          "autocommand.py": "file",
+                                                                                          "autoasync.py": "file",
+                                                                                          "autoparse.py": "file"
+                                                                                },
+                                                                                "tomli": {
+                                                                                          "_types.py": "file",
+                                                                                          "__init__.py": "file",
+                                                                                          "__pycache__": {},
+                                                                                          "_parser.py": "file",
+                                                                                          "_re.py": "file"
+                                                                                },
+                                                                                "backports.tarfile-1.2.0.dist-info": {},
+                                                                                "typeguard-4.3.0.dist-info": {},
+                                                                                "packaging-24.2.dist-info": {},
+                                                                                "wheel-0.45.1.dist-info": {},
+                                                                                "zipp-3.19.2.dist-info": {},
+                                                                                "tomli-2.0.1.dist-info": {},
+                                                                                "typing_extensions-4.12.2.dist-info": {},
+                                                                                "more_itertools-10.3.0.dist-info": {},
+                                                                                "platformdirs-4.2.2.dist-info": {
+                                                                                          "licenses": {}
+                                                                                },
+                                                                                "typeguard": {
+                                                                                          "_checkers.py": "file",
+                                                                                          "_suppression.py": "file",
+                                                                                          "_importhook.py": "file",
+                                                                                          "_pytest_plugin.py": "file",
+                                                                                          "_functions.py": "file",
+                                                                                          "__init__.py": "file",
+                                                                                          "__pycache__": {},
+                                                                                          "_decorators.py": "file",
+                                                                                          "_memo.py": "file",
+                                                                                          "_transformer.py": "file",
+                                                                                          "_union_transformer.py": "file",
+                                                                                          "_config.py": "file",
+                                                                                          "_exceptions.py": "file",
+                                                                                          "_utils.py": "file"
+                                                                                },
+                                                                                "typing_extensions.py": "file",
+                                                                                "platformdirs": {
+                                                                                          "macos.py": "file",
+                                                                                          "unix.py": "file",
+                                                                                          "version.py": "file",
+                                                                                          "__init__.py": "file",
+                                                                                          "__pycache__": {},
+                                                                                          "api.py": "file",
+                                                                                          "android.py": "file",
+                                                                                          "windows.py": "file",
+                                                                                          "__main__.py": "file"
+                                                                                }
+                                                                      },
+                                                                      "discovery.py": "file",
+                                                                      "config": {
+                                                                                "__init__.py": "file",
+                                                                                "__pycache__": {},
+                                                                                "_validate_pyproject": {
+                                                                                          "fastjsonschema_exceptions.py": "file",
+                                                                                          "extra_validations.py": "file",
+                                                                                          "error_reporting.py": "file",
+                                                                                          "__init__.py": "file",
+                                                                                          "__pycache__": {},
+                                                                                          "fastjsonschema_validations.py": "file",
+                                                                                          "formats.py": "file"
+                                                                                },
+                                                                                "setupcfg.py": "file",
+                                                                                "_apply_pyprojecttoml.py": "file",
+                                                                                "pyprojecttoml.py": "file",
+                                                                                "expand.py": "file"
+                                                                      },
+                                                                      "_static.py": "file",
+                                                                      "warnings.py": "file",
+                                                                      "_reqs.py": "file",
+                                                                      "tests": {
+                                                                                "test_bdist_deprecations.py": "file",
+                                                                                "test_build_py.py": "file",
+                                                                                "test_build_meta.py": "file",
+                                                                                "test_warnings.py": "file",
+                                                                                "compat": {
+                                                                                          "py39.py": "file",
+                                                                                          "__init__.py": "file",
+                                                                                          "__pycache__": {}
+                                                                                },
+                                                                                "textwrap.py": "file",
+                                                                                "test_logging.py": "file",
+                                                                                "test_virtualenv.py": "file",
+                                                                                "test_namespaces.py": "file",
+                                                                                "test_shutil_wrapper.py": "file",
+                                                                                "script-with-bom.py": "file",
+                                                                                "test_distutils_adoption.py": "file",
+                                                                                "config": {
+                                                                                          "test_pyprojecttoml_dynamic_deps.py": "file",
+                                                                                          "__init__.py": "file",
+                                                                                          "test_expand.py": "file",
+                                                                                          "__pycache__": {},
+                                                                                          "test_setupcfg.py": "file",
+                                                                                          "test_pyprojecttoml.py": "file",
+                                                                                          "downloads": {
+                                                                                                    "preload.py": "file",
+                                                                                                    "__init__.py": "file",
+                                                                                                    "__pycache__": {}
+                                                                                          },
+                                                                                          "test_apply_pyprojecttoml.py": "file"
+                                                                                },
+                                                                                "test_depends.py": "file",
+                                                                                "integration": {
+                                                                                          "__init__.py": "file",
+                                                                                          "__pycache__": {},
+                                                                                          "test_pbr.py": "file",
+                                                                                          "helpers.py": "file",
+                                                                                          "test_pip_install_sdist.py": "file"
+                                                                                },
+                                                                                "test_core_metadata.py": "file",
+                                                                                "test_extern.py": "file",
+                                                                                "__init__.py": "file",
+                                                                                "__pycache__": {},
+                                                                                "test_manifest.py": "file",
+                                                                                "test_build_clib.py": "file",
+                                                                                "test_setopt.py": "file",
+                                                                                "test_wheel.py": "file",
+                                                                                "test_egg_info.py": "file",
+                                                                                "test_build.py": "file",
+                                                                                "test_install_scripts.py": "file",
+                                                                                "test_find_py_modules.py": "file",
+                                                                                "test_build_ext.py": "file",
+                                                                                "test_unicode_utils.py": "file",
+                                                                                "text.py": "file",
+                                                                                "test_bdist_egg.py": "file",
+                                                                                "test_glob.py": "file",
+                                                                                "environment.py": "file",
+                                                                                "test_config_discovery.py": "file",
+                                                                                "test_windows_wrappers.py": "file",
+                                                                                "mod_with_constant.py": "file",
+                                                                                "test_find_packages.py": "file",
+                                                                                "contexts.py": "file",
+                                                                                "test_setuptools.py": "file",
+                                                                                "test_dist.py": "file",
+                                                                                "test_scripts.py": "file",
+                                                                                "test_bdist_wheel.py": "file",
+                                                                                "test_develop.py": "file",
+                                                                                "test_editable_install.py": "file",
+                                                                                "fixtures.py": "file",
+                                                                                "namespaces.py": "file",
+                                                                                "test_sdist.py": "file",
+                                                                                "test_archive_util.py": "file",
+                                                                                "indexes": {
+                                                                                          "test_links_priority": {
+                                                                                                    "simple": {
+                                                                                                              "foobar": {}
+                                                                                                    }
+                                                                                          }
+                                                                                },
+                                                                                "test_dist_info.py": "file"
+                                                                      },
+                                                                      "depends.py": "file",
+                                                                      "__init__.py": "file",
+                                                                      "__pycache__": {},
+                                                                      "installer.py": "file",
+                                                                      "glob.py": "file",
+                                                                      "launch.py": "file",
+                                                                      "extension.py": "file",
+                                                                      "_core_metadata.py": "file",
+                                                                      "unicode_utils.py": "file",
+                                                                      "_itertools.py": "file",
+                                                                      "monkey.py": "file",
+                                                                      "build_meta.py": "file",
+                                                                      "errors.py": "file",
+                                                                      "command": {
+                                                                                "build.py": "file",
+                                                                                "bdist_egg.py": "file",
+                                                                                "alias.py": "file",
+                                                                                "build_ext.py": "file",
+                                                                                "easy_install.py": "file",
+                                                                                "editable_wheel.py": "file",
+                                                                                "install_scripts.py": "file",
+                                                                                "dist_info.py": "file",
+                                                                                "install_lib.py": "file",
+                                                                                "build_py.py": "file",
+                                                                                "__init__.py": "file",
+                                                                                "__pycache__": {},
+                                                                                "sdist.py": "file",
+                                                                                "test.py": "file",
+                                                                                "saveopts.py": "file",
+                                                                                "bdist_rpm.py": "file",
+                                                                                "build_clib.py": "file",
+                                                                                "bdist_wheel.py": "file",
+                                                                                "egg_info.py": "file",
+                                                                                "_requirestxt.py": "file",
+                                                                                "install.py": "file",
+                                                                                "develop.py": "file",
+                                                                                "rotate.py": "file",
+                                                                                "install_egg_info.py": "file",
+                                                                                "setopt.py": "file"
+                                                                      },
+                                                                      "msvc.py": "file",
+                                                                      "_importlib.py": "file",
+                                                                      "_scripts.py": "file",
+                                                                      "_entry_points.py": "file",
+                                                                      "dist.py": "file",
+                                                                      "_distutils": {
+                                                                                "_msvccompiler.py": "file",
+                                                                                "_modified.py": "file",
+                                                                                "unixccompiler.py": "file",
+                                                                                "filelist.py": "file",
+                                                                                "ccompiler.py": "file",
+                                                                                "compat": {
+                                                                                          "py39.py": "file",
+                                                                                          "__init__.py": "file",
+                                                                                          "numpy.py": "file",
+                                                                                          "__pycache__": {}
+                                                                                },
+                                                                                "archive_util.py": "file",
+                                                                                "cmd.py": "file",
+                                                                                "version.py": "file",
+                                                                                "log.py": "file",
+                                                                                "util.py": "file",
+                                                                                "fancy_getopt.py": "file",
+                                                                                "tests": {
+                                                                                          "test_bdist.py": "file",
+                                                                                          "test_text_file.py": "file",
+                                                                                          "test_version.py": "file",
+                                                                                          "test_install_lib.py": "file",
+                                                                                          "test_build_py.py": "file",
+                                                                                          "test_extension.py": "file",
+                                                                                          "compat": {
+                                                                                                    "py39.py": "file",
+                                                                                                    "__init__.py": "file",
+                                                                                                    "__pycache__": {}
+                                                                                          },
+                                                                                          "test_spawn.py": "file",
+                                                                                          "support.py": "file",
+                                                                                          "test_bdist_rpm.py": "file",
+                                                                                          "test_install_data.py": "file",
+                                                                                          "test_filelist.py": "file",
+                                                                                          "test_core.py": "file",
+                                                                                          "test_cmd.py": "file",
+                                                                                          "__init__.py": "file",
+                                                                                          "test_sysconfig.py": "file",
+                                                                                          "__pycache__": {},
+                                                                                          "test_util.py": "file",
+                                                                                          "test_modified.py": "file",
+                                                                                          "test_build_clib.py": "file",
+                                                                                          "test_log.py": "file",
+                                                                                          "test_build.py": "file",
+                                                                                          "test_install_scripts.py": "file",
+                                                                                          "test_build_ext.py": "file",
+                                                                                          "test_dir_util.py": "file",
+                                                                                          "unix_compat.py": "file",
+                                                                                          "test_install_headers.py": "file",
+                                                                                          "test_clean.py": "file",
+                                                                                          "test_check.py": "file",
+                                                                                          "test_versionpredicate.py": "file",
+                                                                                          "test_build_scripts.py": "file",
+                                                                                          "test_bdist_dumb.py": "file",
+                                                                                          "test_file_util.py": "file",
+                                                                                          "test_dist.py": "file",
+                                                                                          "test_install.py": "file",
+                                                                                          "test_config_cmd.py": "file",
+                                                                                          "test_sdist.py": "file",
+                                                                                          "test_archive_util.py": "file"
+                                                                                },
+                                                                                "versionpredicate.py": "file",
+                                                                                "__init__.py": "file",
+                                                                                "file_util.py": "file",
+                                                                                "core.py": "file",
+                                                                                "__pycache__": {},
+                                                                                "cygwinccompiler.py": "file",
+                                                                                "zosccompiler.py": "file",
+                                                                                "extension.py": "file",
+                                                                                "debug.py": "file",
+                                                                                "spawn.py": "file",
+                                                                                "text_file.py": "file",
+                                                                                "errors.py": "file",
+                                                                                "dep_util.py": "file",
+                                                                                "command": {
+                                                                                          "build.py": "file",
+                                                                                          "build_ext.py": "file",
+                                                                                          "config.py": "file",
+                                                                                          "clean.py": "file",
+                                                                                          "check.py": "file",
+                                                                                          "install_scripts.py": "file",
+                                                                                          "_framework_compat.py": "file",
+                                                                                          "install_headers.py": "file",
+                                                                                          "install_lib.py": "file",
+                                                                                          "build_py.py": "file",
+                                                                                          "bdist_dumb.py": "file",
+                                                                                          "__init__.py": "file",
+                                                                                          "__pycache__": {},
+                                                                                          "sdist.py": "file",
+                                                                                          "bdist.py": "file",
+                                                                                          "build_scripts.py": "file",
+                                                                                          "bdist_rpm.py": "file",
+                                                                                          "build_clib.py": "file",
+                                                                                          "install.py": "file",
+                                                                                          "install_egg_info.py": "file",
+                                                                                          "install_data.py": "file"
+                                                                                },
+                                                                                "dir_util.py": "file",
+                                                                                "compilers": {
+                                                                                          "C": {
+                                                                                                    "unix.py": "file",
+                                                                                                    "zos.py": "file",
+                                                                                                    "tests": {
+                                                                                                              "test_unix.py": "file",
+                                                                                                              "test_cygwin.py": "file",
+                                                                                                              "__pycache__": {},
+                                                                                                              "test_mingw.py": "file",
+                                                                                                              "test_base.py": "file",
+                                                                                                              "test_msvc.py": "file"
+                                                                                                    },
+                                                                                                    "__pycache__": {},
+                                                                                                    "cygwin.py": "file",
+                                                                                                    "errors.py": "file",
+                                                                                                    "msvc.py": "file",
+                                                                                                    "base.py": "file"
+                                                                                          }
+                                                                                },
+                                                                                "sysconfig.py": "file",
+                                                                                "_macos_compat.py": "file",
+                                                                                "dist.py": "file",
+                                                                                "_log.py": "file"
+                                                                      },
+                                                                      "wheel.py": "file",
+                                                                      "namespaces.py": "file",
+                                                                      "_shutil.py": "file"
+                                                            },
+                                                            "pkg_resources": {
+                                                                      "tests": {
+                                                                                "test_resources.py": "file",
+                                                                                "test_integration_zope_interface.py": "file",
+                                                                                "__init__.py": "file",
+                                                                                "__pycache__": {},
+                                                                                "test_markers.py": "file",
+                                                                                "test_working_set.py": "file",
+                                                                                "test_find_distributions.py": "file",
+                                                                                "data": {
+                                                                                          "my-test-package-zip": {},
+                                                                                          "my-test-package_zipped-egg": {},
+                                                                                          "my-test-package_unpacked-egg": {
+                                                                                                    "my_test_package-1.0-py3.7.egg": {
+                                                                                                              "EGG-INFO": {}
+                                                                                                    }
+                                                                                          },
+                                                                                          "my-test-package-source": {
+                                                                                                    "__pycache__": {},
+                                                                                                    "setup.py": "file"
+                                                                                          }
+                                                                                },
+                                                                                "test_pkg_resources.py": "file"
+                                                                      },
+                                                                      "__init__.py": "file",
+                                                                      "__pycache__": {}
+                                                            },
+                                                            "_distutils_hack": {
+                                                                      "__init__.py": "file",
+                                                                      "__pycache__": {},
+                                                                      "override.py": "file"
+                                                            }
+                                                  }
+                                        }
+                              }
+                    }
+          },
+          "envs": {
+                    "lendistry-stacks_1.0.14_darwin_arm64": {}
+          }
+}

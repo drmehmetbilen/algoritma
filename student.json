@@ -1,0 +1,11 @@
+{
+    "name": "Mehmet",
+    "sur_name": "Bilen",
+    "number": "1923",
+    "lectures": [
+        "Algorithm",
+        "Maths",
+        "Physics"
+    ],
+    "city": "Isparta"
+}
