@@ -1,4 +1,6 @@
 import os
+import json
+import pandas
 
 # neden sade bir şekilde çözülemez ?
 # file_list = os.listdir("/Users/mehmetbilen/Code")
@@ -8,22 +10,28 @@ import os
 #         new_new_files = os.listdir(j)
 #         for k in new_new_files... 
 
-def browse_files(start_path):
+def browse_files(start_path, filter):
     file_list = os.listdir(start_path)
+    founded = {}
     for file_path in file_list:
         full_path = os.path.join(start_path,file_path)
-        print("FilePath:",file_path,"\nFullPath:",full_path)
-        if os.path.isfile(full_path):
-            print(f"{file_path} bir dosyadır.")
-        if os.path.isdir(full_path):
-            print(f"{file_path} bir dizindir (klasördür).")
-            browse_files(full_path)
-        print("-"*50)
 
+        if os.path.isfile(full_path):
+            if filter in full_path:
+                founded[file_path] = "File"
+        if os.path.isdir(full_path):
+            founded[file_path] = browse_files(full_path,filter)
+    return founded
         
 
 
-browse_files("/Users/mehmetbilen/Code")
+result = browse_files("/Users/mehmetbilen/Code",".docx")
+with open("file_structure.json","w") as dosya:
+    json.dump(result, dosya)
+
+
+pass
+
 # Ödev : 
 # 1 - Sonuçların json'a kaydedilmesi
 # 2 - Structured bir yapı kurulması
